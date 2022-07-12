@@ -1,10 +1,11 @@
 //
 //  SceneDelegate.swift
-//  Test
+//  Dicee
 //
-//  Created by Angela Yu on 13/06/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Created by Ricardo Camarena on 08/07/2022.
+//  Copyright © 2022 Ricardo Camarena. All rights reserved.
 //
+
 
 import UIKit
 
